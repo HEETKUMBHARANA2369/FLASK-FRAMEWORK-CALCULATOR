@@ -16,8 +16,16 @@ A beginner-friendly web-based calculator built using Flask. This project demonst
 ---
 
 ## Project Structure
+```bash
+.
+├── app.py                   # Main Flask application
+├── templates/
+│   └── index.html           # HTML template for the calculator
+└── README.md                # Project documentation
 
+```
 
+![image](https://github.com/user-attachments/assets/03ec7e54-2a53-48fb-aff0-ce1d5c8f7a8e)
 ---
 
 ## Prerequisites
