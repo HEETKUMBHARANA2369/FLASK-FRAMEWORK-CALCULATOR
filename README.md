@@ -36,4 +36,4 @@ A beginner-friendly web-based calculator built using Flask. This project demonst
 ```bash
 pip install flask
 ```
-##THIS IS JUST A BEGINNER FLASK PROJECT, MORE PROJECTS WILL BE UPLOADED SOON
+# THIS IS JUST A BEGINNER FLASK PROJECT, MORE PROJECTS WILL BE UPLOADED SOON
